@@ -1,12 +1,3 @@
-<style>
-  .tech-icons img {
-    transition: transform 0.3s ease;
-  }
-
-  .tech-icons img:hover {
-    transform: scale(1.25);
-  }
-</style>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -59,5 +50,6 @@ Sou curioso, dedicado, proativo e estou sempre buscando evoluir tecnicamente e p
 </p>
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=6006FF&center=true&vCenter=true&width=500&lines=%E2%9C%8C+Obrigado+por+visitar+meu+perfil!+;Sinta-se+%C3%A0+vontade+para+explorar+meus+;projetos+ou+entrar+em+contato!!+%F0%9F%98%89)](https://git.io/typing-svg)
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=6006FF&center=true&vCenter=true&width=1000&lines=%E2%9C%8C+Obrigado+por+visitar+meu+perfil!+;Sinta-se+%C3%A0+vontade+para+explorar+meus++projetos+ou+entrar+em+contato!!+%F0%9F%98%89)](https://git.io/typing-svg)
