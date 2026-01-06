@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
- Tenho 23 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** no **Unisalesiano em Araçatuba/SP**, atualmente no **3º semestre** com previsão de conclusão em **dezembro de 2026**.
+ Tenho 23 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** no **Unisalesiano em Araçatuba/SP**, atualmente no **5º semestre** com previsão de conclusão em **dezembro de 2026**.
 
 Atualmente, estou em **transição de carreira** vindo da área de promoção de merchandising, estou buscando uma **oportunidade de estágio** ou vaga **júnior** na área de **desenvolvimento de sistemas**, especialmente com foco em:
 
