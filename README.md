@@ -14,14 +14,9 @@
 
 ## 👨‍💻 Sobre mim
 
- Tenho 23 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** no **Unisalesiano em Araçatuba/SP**, atualmente no **5º semestre** com previsão de conclusão em **dezembro de 2026**.
+ Tenho 24 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** no **Unisalesiano em Araçatuba/SP**, estou no **5º semestre** com previsão de conclusão em **dezembro de 2026**.
 
-Atualmente, estou em **transição de carreira** vindo da área de promoção de merchandising, estou buscando uma **oportunidade de estágio** ou vaga **júnior** na área de **desenvolvimento de sistemas**, especialmente com foco em:
-
-- Desenvolvimento Web (Front-end e Back-end)
-- Banco de Dados
-- PHP, Python, Java e React
-
+Atualmente, trabalho com C# na Softline-Araçatuba. 
 Sou curioso, dedicado, proativo e estou sempre buscando evoluir tecnicamente e pessoalmente. 🚀
 
 ---
