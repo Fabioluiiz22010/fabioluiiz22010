@@ -18,7 +18,7 @@ Sou o **Fabio Luiz Florêncio da Silva**, desenvolvedor **backend / full stack j
 - 💼 Trabalho como **Desenvolvedor Júnior na Soft-line Soluções em Sistemas** desde fevereiro de 2026, no **SAC Varejo**, sistema online de controle de vendas e estoque para o varejo, com app para Android e iOS.
 - 🎓 Concluo **Análise e Desenvolvimento de Sistemas** no **UniSALESIANO Araçatuba** em dezembro de 2026.
 - 🛒 Antes da TI trabalhei no varejo, incluindo 4 anos como promotor de vendas, o mesmo setor atendido pelo produto em que atuo hoje.
-- 🎯 Busco vaga **CLT remota** em backend ou full stack.
+
 
 ---
 
